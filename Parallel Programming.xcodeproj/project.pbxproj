@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		8E7A1C122A334EC4007730A1 /* save_filter_video.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = save_filter_video.mov; sourceTree = "<group>"; };
 		8ED7BBEF2A30790500AB6FEB /* Parallel Programming */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Parallel Programming"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8ED7BBF22A30790500AB6FEB /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		8ED7BBF92A307AA300AB6FEB /* Parallel Programming.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Parallel Programming.entitlements"; sourceTree = "<group>"; };
@@ -66,6 +67,7 @@
 				8ED7BBFA2A307AB800AB6FEB /* vtest.avi */,
 				8ED7BBFB2A308CD700AB6FEB /* save_origin_video.mov */,
 				8ED7BBFC2A308E2500AB6FEB /* save_noise_video.mov */,
+				8E7A1C122A334EC4007730A1 /* save_filter_video.mov */,
 			);
 			path = "Parallel Programming";
 			sourceTree = "<group>";
